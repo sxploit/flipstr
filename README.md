@@ -1,2 +1,2 @@
 # flipstr
-Command that reverses the letters in your word - By sxploit
+Command that **__reverses__** the letters in your **word**
